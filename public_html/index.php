@@ -2,6 +2,9 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
+
+		<!-- add CSS file -->
+		<link href="css/stylesheet.css" rel="stylesheet" type="text/css">
 		<title>HTML Sandbox</title>
 	</head>
 	<body>
